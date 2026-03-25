@@ -3,3 +3,41 @@
   margin: 0;
   box-sizing: border-box;
 }
+body {
+  background-color: #fbfaf8;
+
+  margin: 0 auto;
+
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header {
+  margin-bottom: 20px;
+  color: #804e49;
+  text-align: center;
+}
+
+.recipes {
+  display: block;
+  text-decoration: none;
+  text-align: center;
+}
+.recipe1,
+.recipe2 {
+  margin-bottom: 5px;
+}
+
+.recipe1 {
+  color: #1a1a1a;
+  background-color: #e7decd;
+}
+
+.recipe2 {
+  background-color: #0a122a;
+  color: #ffffff;
+}
+
+.recipe3 {
+  background-color: #698f3f;
+  color: #1b1f16;
+}
